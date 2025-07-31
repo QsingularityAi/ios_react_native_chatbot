@@ -16,6 +16,14 @@ A modern iOS React Native chat application with AI integration, featuring multip
 - 🎨 **Modern UI**: Clean, intuitive interface with smooth animations
 - 🔒 **Privacy First**: Local storage for API keys and chat history
 
+## 🖼️ App Screenshots
+
+<p align="center">
+  <img src="assets/images/light_mode.png" alt="Light Mode" width="30%" style="margin-right: 10px;" />
+  <img src="assets/images/dark_mode.png" alt="Dark Mode" width="30%" style="margin-right: 10px;" />
+  <img src="assets/images/models.png" alt="Models" width="30%" />
+</p>
+
 ## 🚀 Quick Start
 
 ### Prerequisites
