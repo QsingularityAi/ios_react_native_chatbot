@@ -21,7 +21,7 @@ A modern iOS React Native chat application with AI integration, featuring multip
 <p align="center">
   <img src="assets/images/light_mode.png" alt="Light Mode" width="30%" style="margin-right: 10px;" />
   <img src="assets/images/dark_mode.png" alt="Dark Mode" width="30%" style="margin-right: 10px;" />
-  <img src="assets/images/models.png" alt="Models" width="30%" />
+  <img src="assets/images/models.png" alt="Models" width="30%" style="margin-right: 10px;"  />
 </p>
 
 ## 🚀 Quick Start
